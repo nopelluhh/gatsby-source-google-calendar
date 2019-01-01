@@ -1,0 +1,24 @@
+{
+  "name": "gatsby-source-google-calendar",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "description": "a gatsby source plugin for google calendar",
+  "author": "Noah Peller <napeller@gmail.com>",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/nopelluhh/gatsby-source-google-calendar"
+  },
+  "scripts": {
+    "build": "tsc"
+  },
+  "dependencies": {
+    "@types/node": "^10.12.18",
+    "gatsby-node-helpers": "^0.3.0",
+    "googleapis": "^36"
+  },
+  "types": "src/index.d.ts",
+  "devDependencies": {
+    "typescript": "^3.2.2"
+  }
+}
