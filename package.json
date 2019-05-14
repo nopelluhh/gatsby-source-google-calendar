@@ -9,6 +9,10 @@
     "type": "git",
     "url": "https://github.com/nopelluhh/gatsby-source-google-calendar"
   },
+  "keywords": [
+    "gatsby",
+    "gatsby-plugin",
+  ],
   "scripts": {
     "build": "tsc"
   },
